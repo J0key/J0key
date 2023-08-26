@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyra Athaya</h1>
+<h1 align="center">Hi 😍, I'm Shyra Athaya</h1>
 <h3 align="center">A passioante programmer from Universitas Gadjah Mada</h3>
 
 - 🔭 I’m currently working on **RKAKL Dashboard Project**
