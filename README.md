@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Backend, Frontend, UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFppg7qoww/IHjK_bjHe_sDc1b2ZO6CFQ/view?utm_content=DAFppg7qoww&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFppg7qoww/IHjK_bjHe_sDc1b2ZO6CFQ/view?utm_content=DAFppg7qoww&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 👨‍💻 All of my projects are available at [https://bit.ly/ShyraPortofolio](https://bit.ly/ShyraPortofolio)
 
 - 📫 How to reach me **shyray3545@gmail.com**
 
