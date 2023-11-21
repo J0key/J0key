@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/uc?id=1uqUFon0Hk6ZwPzy2ow6R5PT8AdIFK_25)](https://drive.google.com/uc?id=1uqUFon0Hk6ZwPzy2ow6R5PT8AdIFK_25)
 
 <h1 align="center">Hi 👋, I'm Shyra Athaya</h1>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*grOJm4Al9dcs7K4i1Y7X7A.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1oo8mOeasEWHiPw0lJRKPn5V4-Gn8-s5G">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0key&label=Profile%20views&color=0e75b6&style=flat" alt="j0key" /> </p>
 
