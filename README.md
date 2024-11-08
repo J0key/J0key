@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Figma, Android Studio, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/ShyraPortofolio](https://bit.ly/ShyraPortofolio)
+- 👨‍💻 All of my projects are available at [https://bit.ly/ShyraPortofolio](https://bit.ly/ShyraPortofolio](https://shyathporto.vercel.app/)
 
 - 📫 How to reach me **shyray3545@gmail.com**
 
